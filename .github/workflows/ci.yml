@@ -8,7 +8,7 @@ jobs:
   Backend:
     runs-on: ubuntu-latest
     defaults:
-      runs:
+      run:
         working-directory: backend 
 
     services:
